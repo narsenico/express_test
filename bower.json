@@ -1,0 +1,19 @@
+{
+  "name": "express_test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/narsenico/express_test",
+  "authors": [
+    "narsenico"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "particles.js": "~2.0.0"
+  }
+}
